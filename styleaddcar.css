@@ -1,0 +1,11 @@
+BODY {background: #FFFFFF}
+A:link {color: #80FF00}
+A:visited {color: #FF00FF}
+H1 {font-size: 24pt; font-family: arial}
+H2 {font-size: 18pt; font-family: arial}
+H3 {font-size: 14pt; font-family: arial}    
+.roww{padding:20px;
+border:thin solid #ccc;}
+form{border:thin groove #808080;
+border-radius:8px;
+padding:20px;}
